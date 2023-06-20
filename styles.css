@@ -11,13 +11,10 @@ body{
 }
 h1{
     margin: 1em auto;
-    background-color: rgb(78, 94, 125);
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 60%;
-    border-radius: 0.3em;
-    padding: 0.5em;
+    text-decoration: underline;
 }
 .box-index{
     background-color: rgba(78, 94, 125, 0.3);
@@ -30,7 +27,7 @@ h1{
 }
 
 .index{
-    /* font-size: 1.2em; */
+    font-size: 1.2em;
     width: 10em;
 }
 li{
